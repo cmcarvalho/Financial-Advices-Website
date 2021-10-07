@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.image01 {
+  width: 100%;
+  display: block;
+}
+
+.rectangle01 {
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(#041536, #040a1f);
+  /* background-color: #03122e; */
+}
+
+.rectangle02 {
+  width: 100%;
+  height: 200px;
+  background: #040a1f;
+}
+
+.rectangle03 {
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(#040a1f, #24263d);
+  /* background-color: #24263d; */
+}
+
+.image02 {
+  width: 100%;
+  display: block;
+}
